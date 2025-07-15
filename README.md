@@ -1,1 +1,1 @@
-# E-Commerce Website\nBuilt by Maaz Ansari
+# E-Commerce Website\nBuilt with MERN Stack by Maaz Ansari
