@@ -79,8 +79,3 @@ The focus was to **mirror enterprise-grade workflows**: modular architecture, re
 
 This e-commerce platform demonstrates modern web development principles, combining cutting-edge libraries with practical features. Its layered approach and clear structure make it easy to maintain, extend, and deploy, aligning with industry-level standards for full-stack engineering.
 
----
-
-```
-
----
