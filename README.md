@@ -1,4 +1,3 @@
-Perfect, Maaz 🚀 A professional `README.md` can make your project look polished and internship-ready. Below is a **detailed, 450-word README** for your `ECommerce-Website` project, covering everything you asked:
 
 ---
 
