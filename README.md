@@ -1,12 +1,6 @@
-
----
-
-````markdown
 # 🛒 E-Commerce Website
 
 A full-stack MERN application built to demonstrate modern web development practices, scalable architecture, and seamless user experience for online shopping platforms. This project was created as part of my internship assignment and designed to reflect real-world e-commerce functionality.
-
----
 
 ## 🚀 Tech Stack
 
@@ -16,8 +10,6 @@ A full-stack MERN application built to demonstrate modern web development practi
 - **Utilities & Tools:** Tanstack Query, EncoreJS, Puppeteer (for PDF generation), TypeScript  
 
 Each technology was chosen for performance, scalability, and developer productivity. React with Vite ensures blazing-fast development and optimized builds, while Tailwind + Shadcn provides elegant UI components. Redux Toolkit and Tanstack Query handle state and data synchronization efficiently. On the backend, Express with MongoDB enables robust APIs, and Puppeteer automates PDF creation for receipts or reports.
-
----
 
 ## ⚙️ Installation & Running the Project
 
