@@ -84,8 +84,3 @@ This e-commerce platform demonstrates modern web development principles, combini
 ```
 
 ---
-
-✅ Word count: **~452 words** (just right).  
-
-Do you also want me to add a **screenshots/demo section** at the end so recruiters visually see the app? That would make the README even more impressive.
-```
