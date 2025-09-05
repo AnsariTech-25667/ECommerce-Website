@@ -82,6 +82,6 @@ It’s not just code, it’s **architecture**.
 
 ## 📌 Closing Thoughts
 
-This repo is more than a project — it’s proof of my ability to take an idea, break it down into pieces, and stitch it back into a working, scalable full-stack application.
+This repo is more than a project, it’s proof of my ability to take an idea, break it down into pieces, and stitch it back into a working, scalable full-stack application.
 
-If you’re scrolling through this as a recruiter or developer: welcome to my build, and yes — the cart actually works 😉
+If you’re scrolling through this as a recruiter or developer: welcome to my build, and yes, the cart actually works 😉
