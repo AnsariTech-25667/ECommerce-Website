@@ -62,7 +62,7 @@ Runs on `http://localhost:5173`
 * Checkout flow (with payment simulation)
 * Auto-generated invoices via Puppeteer (because nothing says “real app” like a PDF receipt)
 
-Basically, it’s the backbone of any e-commerce business — without the headaches of deploying to production just yet.
+Basically, it’s the backbone of any e-commerce business without the headaches of deploying to production just yet.
 
 ---
 
